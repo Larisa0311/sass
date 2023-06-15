@@ -34,6 +34,7 @@
 	background-color: s.color('white');
 	gap: s.space(5);
 	align-items: center;
+	margin: 0 auto;
 }
 
 .advertising__title {
@@ -158,6 +159,7 @@ $productImage: (
 .footer {
 	@extend .section;
 	background-color: s.color('background');
+	margin: 0 auto;
 	margin-top: s.space(10);
 	margin-bottom: s.space(10);
 	

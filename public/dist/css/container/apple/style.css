@@ -82,6 +82,7 @@
 .advertising {
   gap: 20px;
   align-items: center;
+  margin: 0 auto;
 }
 
 .advertising__title {
@@ -242,6 +243,7 @@
 
 .footer {
   background-color: #F5F5F7;
+  margin: 0 auto;
   margin-top: 40px;
   margin-bottom: 40px;
 }
